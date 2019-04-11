@@ -1,0 +1,117 @@
+#body {
+	
+}
+
+#interface {
+	width: 800px;
+	height: 530px;
+	background-color: #d4caca;
+	justify-content: center;
+	margin: 30px auto 20px auto;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+
+}
+
+figure {
+	padding: 10px;
+	margin: 100px;
+	text-align: center;
+    margin: 100px auto 10px auto;	
+
+}
+
+.img {
+	width: 200px;
+	height: 200px;
+	
+ 	
+}
+
+#header {
+	width: 800px;
+	
+}
+
+.menulist {
+	display: block;
+	width: 100%
+
+}
+
+.menulist ul {
+	list-style: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: 10px;
+	left: 200px; 
+}
+
+.menulist li {
+ 	display: inline-block;
+ 	background-color: pink;
+ 	padding: 10px;
+ 	margin: 2px;
+ 	transition: background-color 3s;
+}
+
+.menulist li:hover {
+	background-color: blue;
+
+}
+
+.menulist {
+ background-color: 
+}
+
+.menulist h1 {
+	display: none;
+}
+
+.menulist a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.menulist a:hover {
+	color: red;
+}
+
+#main {
+	
+}
+
+#boxing {
+
+}
+
+.containerone {
+
+}
+
+
+
+.text {
+	 width: 500px;
+    margin: auto;
+    color: darkorchid;
+
+}
+
+.containertwo {
+
+}
+
+h2 {
+	font-size: 30px;
+    text-align: center;
+    color: #6b519a;
+	
+
+}
+
+.text2 {
+	   width: 500px;
+    margin: auto;
+    color: darkorchid;
+
+}
